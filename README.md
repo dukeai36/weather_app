@@ -1,3 +1,8 @@
+---
+title: Weather App
+sdk: static
+---
+
 # Weather App
 
 A Python Streamlit app that gets the current weather for a city using the OpenWeather API.
