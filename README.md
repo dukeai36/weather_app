@@ -1,16 +1,12 @@
 ---
 title: Weather App
-emoji: 🌤️
-colorFrom: blue
-colorTo: green
 sdk: docker
 app_port: 7860
-pinned: false
 ---
 
 # Weather App
 
-A Python Streamlit app that gets the current weather for a US city using the OpenWeather API.
+A Python Streamlit app that gets the current weather for a city using the OpenWeather API.
 
 ## Setup
 
@@ -24,6 +20,6 @@ OPENWEATHER_API_KEY=your_api_key_here
 
 ## Run the app:
 
-streamlit run weather_app.py
+streamlit run streamlit_app.py
 
 Enter a city to see its temperature, humidity, and weather conditions.
