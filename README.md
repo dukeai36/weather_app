@@ -1,0 +1,10 @@
+---
+title: My Streamlit Demo
+emoji: 🐨
+colorFrom: red
+colorTo: yellow
+sdk: static
+pinned: false
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
