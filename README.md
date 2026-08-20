@@ -23,3 +23,5 @@ OPENWEATHER_API_KEY=your_api_key_here
 streamlit run streamlit_app.py
 
 Enter a city to see its temperature, humidity, and weather conditions.
+
+Python 3.13.9
